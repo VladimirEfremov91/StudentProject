@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c368710d-bc1f-4e9c-a3b1-12fbcdef1c63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TaskTwo.java" afterDir="false" />
+    <list default="true" id="c368710d-bc1f-4e9c-a3b1-12fbcdef1c63" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f0b2988e-e367-48e4-81fc-0b06ce28afbe" />
+        <option name="url" value="https://github.com/VladimirEfremov91/StudentProject.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,13 +63,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TaskSeven">
-    <configuration name="TaskFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskFive" />
+  <component name="RunManager" selected="Application.ArraysThree">
+    <configuration name="ArraysOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysOne" />
       <module name="StudentProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskFour" />
+    <configuration name="ArraysThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysThree" />
       <module name="StudentProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysTwo" />
+      <module name="StudentProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskThree" />
-      <module name="StudentProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysThree" />
+        <item itemvalue="Application.ArraysTwo" />
+        <item itemvalue="Application.ArraysOne" />
         <item itemvalue="Application.TaskSeven" />
         <item itemvalue="Application.TaskSix" />
-        <item itemvalue="Application.TaskFive" />
-        <item itemvalue="Application.TaskFour" />
-        <item itemvalue="Application.TaskThree" />
       </list>
     </recent_temporary>
   </component>
@@ -149,8 +147,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685550367088</updated>
-      <workItem from="1685550368076" duration="13531000" />
+      <workItem from="1685550368076" duration="25195000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1685644327857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685644327857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,11 +167,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,5 +198,10 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StudentProject$ArraysTwo.ic" NAME="ArraysTwo Coverage Results" MODIFIED="1685725156839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.arrays.*</FILTER>
+    </SUITE>
   </component>
 </project>
