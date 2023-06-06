@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c368710d-bc1f-4e9c-a3b1-12fbcdef1c63" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysTwo.java" afterDir="false" />
+    <list default="true" id="c368710d-bc1f-4e9c-a3b1-12fbcdef1c63" name="Changes" comment="Arrays at work">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -63,7 +66,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysThree">
+  <component name="RunManager" selected="Application.ArraysFive">
+    <configuration name="ArraysFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysFive" />
+      <module name="StudentProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysFour" />
+      <module name="StudentProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraysOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysOne" />
       <module name="StudentProject" />
@@ -103,39 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskSeven" />
-      <module name="StudentProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TaskSix" />
-      <module name="StudentProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysFive" />
+        <item itemvalue="Application.ArraysFour" />
         <item itemvalue="Application.ArraysThree" />
         <item itemvalue="Application.ArraysTwo" />
         <item itemvalue="Application.ArraysOne" />
-        <item itemvalue="Application.TaskSeven" />
-        <item itemvalue="Application.TaskSix" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685550367088</updated>
-      <workItem from="1685550368076" duration="25195000" />
+      <workItem from="1685550368076" duration="29177000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1685644327857</created>
@@ -156,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685644327857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arrays at work">
+      <created>1685902427198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685902427198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +197,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Arrays at work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays at work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
