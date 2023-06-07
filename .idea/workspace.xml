@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c368710d-bc1f-4e9c-a3b1-12fbcdef1c63" name="Changes" comment="Arrays at work">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFive.java" afterDir="false" />
+    <list default="true" id="c368710d-bc1f-4e9c-a3b1-12fbcdef1c63" name="Changes" comment="Arrays finished">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/taskone/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/taskone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/taskone/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/tasktwo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/tasktwo/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/tasktwo/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrays/ArraysFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2QZ9idaJspPRHoxTMrsqCylwjEv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysFive">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArraysFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysFive" />
       <module name="StudentProject" />
@@ -82,19 +88,6 @@
     </configuration>
     <configuration name="ArraysFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysFour" />
-      <module name="StudentProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.ArraysOne" />
       <module name="StudentProject" />
       <extension name="coverage">
         <pattern>
@@ -132,13 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.classes.taskone.Main" />
+      <module name="StudentProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.classes.taskone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArraysFive" />
         <item itemvalue="Application.ArraysFour" />
         <item itemvalue="Application.ArraysThree" />
         <item itemvalue="Application.ArraysTwo" />
-        <item itemvalue="Application.ArraysOne" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685550367088</updated>
-      <workItem from="1685550368076" duration="29177000" />
+      <workItem from="1685550368076" duration="33949000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1685644327857</created>
@@ -166,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685902427198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Arrays finished">
+      <created>1686077813621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686077813621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Arrays at work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays at work" />
+    <MESSAGE value="Arrays finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
