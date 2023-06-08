@@ -40,6 +40,7 @@ public class ArraysFour {
             }
             leftColumn++;
         }
+        System.out.println(Arrays.toString(array));
 
         // Вывод двумерного массива
         for (int i = 0; i < rows; i++) {
